@@ -1,0 +1,21 @@
+.footer4{
+    background-color: #fc2779;
+    
+    padding: 20px 0px 20px 500px;
+}
+.top1{
+    display: flex;
+    color: white;
+    
+}
+.top2{
+    color: white;
+    padding-left: 100px;
+    padding-top: 7px;
+}
+.tag{
+    padding-left: 20px;
+}
+.total{
+    padding-bottom: 40px;
+}

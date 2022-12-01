@@ -1,0 +1,24 @@
+.footer2{
+    display: flex;
+    background-color: #8c8d94;
+    padding: 50px 200px 50px 200px;
+}
+.column1{
+    color: white;
+}
+.column2{
+    color: white;
+    padding-left: 30px;
+}
+.column3{
+    color: white;
+    padding-left: 30px;
+}
+.column4{
+    color: white;
+    padding-left: 30px;
+}
+.column5{
+    color: white;
+    padding-left: 30px;
+}

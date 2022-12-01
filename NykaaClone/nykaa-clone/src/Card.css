@@ -1,0 +1,13 @@
+.division{
+   display: flex;
+   padding:0px 0px 50px 325px;
+   
+}
+.title{
+    font-size: 24px;
+    color: #3f414d;
+    text-align: center;
+}
+.space{
+    padding-left: 20px;
+}

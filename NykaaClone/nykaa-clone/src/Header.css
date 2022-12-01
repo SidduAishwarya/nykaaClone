@@ -1,0 +1,39 @@
+.navbar{
+    display: flex;
+    padding: 0px 100px 0px 70px;
+}
+.logo{
+    display: inline-block;
+    width: 94px;
+    height: 35px;
+    padding-top: 15px;
+    padding-left: 50px;
+   
+}
+.nav{
+    display: flex;
+    
+    padding-left: 20px;
+}
+.nav1{
+    padding: 15px;
+    padding-top: 22.5px;
+    text-decoration: none;
+    
+}
+.nav2{
+    padding: 20px;
+    padding-left: 100px;
+    width: 300px;
+}
+.nav3{
+    padding: 20px;
+    padding-left: 70px;
+    padding-top: 25px;
+}
+.button{
+    height: 40px;
+    padding-top: 17px;
+    
+    
+}
